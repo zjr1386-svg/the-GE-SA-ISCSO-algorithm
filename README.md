@@ -23,8 +23,8 @@ This section evaluates the proposed algorithm on six classical constrained engin
 * **Output:** the optimal design variables and the optimal value.
 
 ## 5. Photovoltaic Power Prediction
-The hyperparameters of the LSTM neural network are optimized using the GE-SA ISCSO algorithm, and the model’s predictive performance is rigorously evaluated under sunny conditions.
+The hyperparameters of the LSTM neural network are optimized using the GE-SA ISCSO algorithm, and the model’s predictive performance is rigorously evaluated under rain conditions.
 
-* **Run Scripts:** `Photovoltaic power prediction/sun/main_pv_lstm.m`.
+* **Run Scripts:** `Photovoltaic power prediction/rain/main_pv_lstm.m`.
 * **Output:** six error evaluation indexes are reported: MAE, MSE, RMSE, NSE, MAPE, and RRMSE.
 * **Results:** Convergence curves, predicted values, and actual values will be saved to `GE-SA ISCSO-LSTM.mat`.
