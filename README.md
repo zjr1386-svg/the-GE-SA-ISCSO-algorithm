@@ -12,8 +12,8 @@ It is recommended to use MATLAB R2023b or a later version.
 This section includes the CEC2022 test set function of 10 dimensions and 20 dimensions.
 
 * **Run Scripts:**
-    * **10D:** `Benchmarks_CEC2022/10D/main_cec2022.m`
-    * **20D:** `Benchmarks_CEC2022/20D/main_cec2022.m`
+    * **10D:** `Benchmarks_CEC2022_10D/main_cec2022.m`
+    * **20D:** `Benchmarks_CEC2022_20D/main_cec2022.m`
 * **Output:** Best, Mean and Std.
 
 ## 4. Engineering Design Optimization
